@@ -1,5 +1,5 @@
 {
-    "api": "https://private-wally.paralov.com",
+    "api": "https://wally-923784306369.us-central1.run.app",
     "fallback_registries": [
         "https://github.com/UpliftGames/wally-index"
     ]
