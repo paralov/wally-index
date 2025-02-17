@@ -1,7 +1,6 @@
 {
     "api": "https://private-wally.paralov.com",
     "fallback_registries": [
-        "https://github.com/paralov-inc/wally-index-public",
         "https://github.com/UpliftGames/wally-index"
     ]
 }
